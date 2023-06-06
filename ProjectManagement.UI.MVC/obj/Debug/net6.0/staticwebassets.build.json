@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "ay10B5UpYjQgt3xdBJAhf2xCzn9TScfJBXEui4JybX4=",
+=======
+  "Hash": "8VbiKbXCl1Gkvb/chMWKvZhvexA/8BNIp95VM37taMw=",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
   "Source": "ProjectManagement.UI.MVC",
   "BasePath": "_content/ProjectManagement.UI.MVC",
   "Mode": "Default",
@@ -10,7 +14,11 @@
     {
       "Name": "ProjectManagement.UI.MVC\\wwwroot",
       "Source": "ProjectManagement.UI.MVC",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "Pattern": "**"
     }
@@ -1037,10 +1045,17 @@
       "OriginalItemSpec": "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProjectManagement.UI.MVC.styles.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProjectManagement.UI.MVC.styles.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "ProjectManagement.UI.MVC.styles.css",
       "AssetKind": "All",
@@ -1051,6 +1066,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProjectManagement.UI.MVC.styles.css"
     },
     {
@@ -1058,6 +1074,15 @@
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProjectManagement.UI.MVC.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectManagement.UI.MVC.bundle.scp.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "ProjectManagement.UI.MVC.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,6 +1093,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectManagement.UI.MVC.bundle.scp.css"
     },
     {
@@ -6753,6 +6779,15 @@
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectManagement.UI.MVC.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\css\\site.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -6766,10 +6801,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\favicon.ico",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\favicon.ico",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -6783,10 +6825,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\js\\site.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\js\\site.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -6800,10 +6849,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -6817,10 +6873,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -6834,10 +6897,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -6851,10 +6921,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -6868,10 +6945,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -6885,10 +6969,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -6902,10 +6993,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -6919,10 +7017,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -6936,10 +7041,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -6953,10 +7065,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -6970,10 +7089,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -6987,10 +7113,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -7004,10 +7137,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -7021,10 +7161,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -7038,10 +7185,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -7055,10 +7209,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -7072,10 +7233,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -7089,10 +7257,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -7106,10 +7281,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -7123,10 +7305,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -7140,10 +7329,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -7157,10 +7353,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -7174,10 +7377,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -7191,10 +7401,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -7208,10 +7425,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -7225,10 +7449,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -7242,10 +7473,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -7259,10 +7497,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -7276,10 +7521,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -7293,10 +7545,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -7310,10 +7569,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -7327,10 +7593,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -7344,10 +7617,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -7361,10 +7641,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -7378,10 +7665,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -7395,10 +7689,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -7412,10 +7713,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -7429,10 +7737,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -7446,10 +7761,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -7463,10 +7785,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -7480,10 +7809,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -7497,10 +7833,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -7514,10 +7857,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -7531,10 +7881,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -7548,10 +7905,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -7565,10 +7929,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -7582,10 +7953,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -7599,10 +7977,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -7616,10 +8001,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -7633,10 +8025,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -7650,10 +8049,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -7667,10 +8073,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -7684,10 +8097,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -7701,10 +8121,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -7718,10 +8145,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -7735,10 +8169,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -7752,10 +8193,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ProjectManagement.UI.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "ProjectManagement.UI.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "BasePath": "_content/ProjectManagement.UI.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
