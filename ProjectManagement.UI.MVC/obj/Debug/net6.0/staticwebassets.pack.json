@@ -1,6 +1,1585 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectManagement.UI.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectManagement.UI.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\_Archive\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\documentation\\script.js",
+      "PackagePath": "staticwebassets\\_Archive\\documentation\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\documentation\\style.css",
+      "PackagePath": "staticwebassets\\_Archive\\documentation\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\.gitignore",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\README.md",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\package-lock.json",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\package.json",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\.htaccess",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\.htaccess"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\favicon.ico",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\index.html",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\logo192.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\logo512.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\manifest.json",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\precache-manifest.1a1abc38f67376807c61ef6c15f0ab21.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\precache-manifest.1a1abc38f67376807c61ef6c15f0ab21.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\robots.txt",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\service-worker.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\css\\4.687196e3.chunk.css",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\css\\4.687196e3.chunk.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\css\\4.687196e3.chunk.css.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\css\\4.687196e3.chunk.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\css\\main.d227dcc7.chunk.css",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\css\\main.d227dcc7.chunk.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\css\\main.d227dcc7.chunk.css.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\css\\main.d227dcc7.chunk.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\0.353ed173.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\0.353ed173.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\0.353ed173.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\0.353ed173.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\1.6b8f089b.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\1.6b8f089b.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\1.6b8f089b.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\1.6b8f089b.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\10.7240b0af.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\10.7240b0af.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\10.7240b0af.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\10.7240b0af.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\11.a4c0a761.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\11.a4c0a761.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\11.a4c0a761.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\11.a4c0a761.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\12.fba9c05d.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\12.fba9c05d.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\12.fba9c05d.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\12.fba9c05d.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\13.8b2bea52.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\13.8b2bea52.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\13.8b2bea52.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\13.8b2bea52.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\14.ac4e3008.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\14.ac4e3008.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\14.ac4e3008.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\14.ac4e3008.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\15.a531644a.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\15.a531644a.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\15.a531644a.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\15.a531644a.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\16.46ba25ee.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\16.46ba25ee.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\16.46ba25ee.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\16.46ba25ee.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\17.f5ee03ab.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\17.f5ee03ab.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\17.f5ee03ab.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\17.f5ee03ab.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\18.8a8edb67.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\18.8a8edb67.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\18.8a8edb67.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\18.8a8edb67.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\4.a5364eeb.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\4.a5364eeb.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\4.a5364eeb.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\4.a5364eeb.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\5.0d93b8f7.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\5.0d93b8f7.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\5.0d93b8f7.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\5.0d93b8f7.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\6.f4762678.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\6.f4762678.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\6.f4762678.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\6.f4762678.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\7.b0f5aabe.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\7.b0f5aabe.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\7.b0f5aabe.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\7.b0f5aabe.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\8.dd111340.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\8.dd111340.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\8.dd111340.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\8.dd111340.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\9.5187b493.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\9.5187b493.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\9.5187b493.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\9.5187b493.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\main.20b24660.chunk.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\main.20b24660.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\main.20b24660.chunk.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\main.20b24660.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\runtime~main.0b4c77d1.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\runtime~main.0b4c77d1.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\js\\runtime~main.0b4c77d1.js.map",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\js\\runtime~main.0b4c77d1.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\1.1674de7c.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\1.1674de7c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\2.989ef602.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\2.989ef602.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\3.3aa4e7a3.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\3.3aa4e7a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\circle.1541da91.svg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\circle.1541da91.svg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\face1.42d41e61.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\face1.42d41e61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\face13.16f59cba.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\face13.16f59cba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\face2.7e0e382d.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\face2.7e0e382d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\face3.16c67435.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\face3.16c67435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\face4.d5afaa66.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\face4.d5afaa66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\face5.d2417284.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\face5.d2417284.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\face6.07adc9a9.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\face6.07adc9a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\face7.7af91f95.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\face7.7af91f95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\img_1.3a82198a.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\img_1.3a82198a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\img_2.1b4a771c.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\img_2.1b4a771c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\img_3.573908af.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\img_3.573908af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\img_4.ea8a7a45.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\img_4.ea8a7a45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\lockscreen-bg.0d7ef366.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\lockscreen-bg.0d7ef366.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\login-bg.2eeb0447.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\login-bg.2eeb0447.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\logo-mini.8aef5918.svg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\logo-mini.8aef5918.svg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\logo.a79624ec.svg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\logo.a79624ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\materialdesignicons-webfont.3ac50b5b.ttf",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\materialdesignicons-webfont.3ac50b5b.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\materialdesignicons-webfont.7ec5dab7.woff2",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\materialdesignicons-webfont.7ec5dab7.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\materialdesignicons-webfont.a0d13d16.woff",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\materialdesignicons-webfont.a0d13d16.woff"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\materialdesignicons-webfont.a32fa1f2.eot",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\materialdesignicons-webfont.a32fa1f2.eot"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\preview\\static\\media\\register-bg.2ccde6b9.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\preview\\static\\media\\register-bg.2ccde6b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\public\\favicon.ico",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\public\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\public\\index.html",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\public\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\public\\logo192.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\public\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\public\\logo512.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\public\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\public\\manifest.json",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\public\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\public\\robots.txt",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\public\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\App.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\App.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\App.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\App.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\App.test.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\App.test.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\AppRoutes.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\AppRoutes.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\basic-ui\\Buttons.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\basic-ui\\Buttons.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\basic-ui\\Dropdowns.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\basic-ui\\Dropdowns.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\basic-ui\\Typography.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\basic-ui\\Typography.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\charts\\ChartJs.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\charts\\ChartJs.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\dashboard\\Dashboard.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\dashboard\\Dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\error-pages\\Error404.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\error-pages\\Error404.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\error-pages\\Error500.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\error-pages\\Error500.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\form-elements\\BasicElements.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\form-elements\\BasicElements.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\general-pages\\BlankPage.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\general-pages\\BlankPage.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\icons\\Mdi.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\icons\\Mdi.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\shared\\Footer.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\shared\\Footer.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\shared\\Navbar.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\shared\\Navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\shared\\SettingsPanel.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\shared\\SettingsPanel.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\shared\\Sidebar.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\shared\\Sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\shared\\Spinner.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\shared\\Spinner.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\tables\\BasicTable.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\tables\\BasicTable.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\user-pages\\Lockscreen.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\user-pages\\Lockscreen.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\user-pages\\Login.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\user-pages\\Login.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\app\\user-pages\\Register.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\app\\user-pages\\Register.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\brand_icons\\bitmap.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\brand_icons\\bitmap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\brand_icons\\oval-copy.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\brand_icons\\oval-copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\brand_icons\\oval.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\brand_icons\\oval.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_10.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_11.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_12.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_3.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_4.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_5.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_6.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_7.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_8.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_9.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\carousel\\banner_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\profile_image.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\profile_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image1.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image2.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image3.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image4.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image5.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image6.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image7.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image8.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\chat\\thumb_image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\fb.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\mail-image.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\mail-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\medium.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\medium.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\slack.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\twitter.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\youtube.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\email\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image1.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image10.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image11.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image12.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image2.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image3.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image4.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image5.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image6.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image7.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image8.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image9.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\product_images_2\\thumb_image9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\1.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\10.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\11.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\12.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\13.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\14.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\15.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\2.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\3.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\4.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\5.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\6.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\7.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\8.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\9.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\1280x768\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\1.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\10.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\11.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\12.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\13.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\14.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\15.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\2.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\3.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\4.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\5.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\6.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\7.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\8.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\9.jpg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\300x300\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\angular-4.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\angular-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\bootstrap-stack.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\bootstrap-stack.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\charts.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\charts.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\dashboard.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\e-commerce.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\e-commerce.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\editors.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\editors.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\email.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\forms.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\forms.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\html5.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\html5.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\modal.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\modal.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\popup.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\popup.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\weather.svg",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\weather.svg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\widgets.png",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\images\\samples\\widgets.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_background.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_demo.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_fonts.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_footer.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_functions.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_layout.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_misc.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_navbar.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_reset.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_responsive.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_settings-panel.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_settings-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_spinner.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_spinner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_typography.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_utilities.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\_variables.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_accordions.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_accordions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_bootstrap-alerts.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_bootstrap-alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_chats.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_chats.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_kanban.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_kanban.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_landing.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_landing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_popovers.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_pricing-table.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_pricing-table.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_product-tile.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_product-tile.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_project-list.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_project-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_react-table.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_react-table.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_spinner.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_spinner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_tabs.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_tickets.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_tickets.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_timeline.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_user-listing.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_user-listing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_user-profile.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_user-profile.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_widgets.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\_widgets.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\email\\_mail-list-container.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\email\\_mail-list-container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\email\\_mail-sidebar.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\email\\_mail-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\email\\_message-content.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\email\\_message-content.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_bar-loader.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_bar-loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_circle-loader.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_circle-loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_colored-balls.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_colored-balls.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_dot-opacity-loader.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_dot-opacity-loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_flip-square-loader.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_flip-square-loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_glowing-ball.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_glowing-ball.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_jumping-dots-loader.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_jumping-dots-loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_loaders.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_loaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_moving-square-loader.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_moving-square-loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_pixel-loader.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_pixel-loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_square-box.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_square-box.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_square-path-loader.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_square-path-loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_variables.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\loaders\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_contex-menu.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_contex-menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_date-picker.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_date-picker.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_jquery-jvectormap.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_jquery-jvectormap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_no-ui-slider.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_no-ui-slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_rating.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_rating.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_react-bootstrap-table.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_react-bootstrap-table.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_react-photo-gallery.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_react-photo-gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_react-table.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_react-table.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_react-tag-autocomplete.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_react-tag-autocomplete.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_slick-carousel.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_slick-carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_sweet-alert.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_sweet-alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_wizard.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\components\\plugin-overrides\\_wizard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_color-functions.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_color-functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_no-ui-slider.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_no-ui-slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\assets\\styles\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\i18n.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\i18n.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\index.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\_Archive\\template\\demo_1\\src\\serviceWorker.js",
+      "PackagePath": "staticwebassets\\_Archive\\template\\demo_1\\src\\serviceWorker.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectManagement.UI.MVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\ProjectManagement.UI.MVC.bundle.scp.css"
     },
@@ -242,6 +1821,7 @@
     },
     {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\Extra Projects\\PM\\ProjectManagement.UI.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+>>>>>>> 35f5abbf468cfa334b8a6e0358328ec180be6630
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
