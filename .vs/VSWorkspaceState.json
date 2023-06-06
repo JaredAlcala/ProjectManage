@@ -1,4 +1,8 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\ProjectManagement.UI.MVC"
+  ],
+  "SelectedNode": "\\ProjectManagement.UI.MVC\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
