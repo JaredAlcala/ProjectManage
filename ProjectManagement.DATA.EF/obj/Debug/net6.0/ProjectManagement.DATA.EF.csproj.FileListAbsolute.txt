@@ -1,0 +1,12 @@
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\bin\Debug\net6.0\ProjectManagement.DATA.EF.deps.json
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\bin\Debug\net6.0\ProjectManagement.DATA.EF.dll
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\bin\Debug\net6.0\ProjectManagement.DATA.EF.pdb
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\ProjectManagement.DATA.EF.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\ProjectManagement.DATA.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\ProjectManagement.DATA.EF.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\ProjectManagement.DATA.EF.AssemblyInfo.cs
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\ProjectManagement.DATA.EF.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\ProjectManagement.DATA.EF.dll
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\refint\ProjectManagement.DATA.EF.dll
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\ProjectManagement.DATA.EF.pdb
+C:\Users\Student\source\repos\ProjectManage\ProjectManagement.DATA.EF\obj\Debug\net6.0\ref\ProjectManagement.DATA.EF.dll
